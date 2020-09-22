@@ -1,0 +1,6 @@
+/.idea/
+/.mvn/
+/simple-rpc-spring-boot-autoconfigure/simple-rpc-spring-boot-autoconfigure.iml
+/simple-rpc-spring-boot-starter/simple-rpc-spring-boot-starter.iml
+/simple-rpc-spring-boot-autoconfigure/target/
+/simple-rpc-spring-boot-starter/target/
